@@ -7,8 +7,9 @@
   "dependencies": {
     "@material-ui/core": "4.9.8",
     "@material-ui/icons": "4.9.1",
+    "@popperjs/core": "2.4.4",
     "date-fns": "2.15.0",
-    "firebase": "7.17.0",
+    "firebase": "7.17.1",
     "istanbul-lib-coverage": "3.0.0",
     "lodash": "4.17.19",
     "notistack": "0.9.17",
